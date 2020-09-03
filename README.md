@@ -6,3 +6,4 @@ We were tasked with creating a quiz applications, the criteria was to answer a s
 within a pre-set timeframe. For every incorrect question a time penalty was to be implemented.
 
 Link to live site: 
+https://akif448.github.io/js-quiz/
